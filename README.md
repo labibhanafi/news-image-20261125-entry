@@ -1,6 +1,8 @@
 # news-image-20261125
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261125-blue)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/labibhanafi/news-image-20261125-entry/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/labibhanafi/news-image-20261125-entry/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/labibhanafi/news-image-20261125-entry/blob/main/LICENSE)
 [![entry: main.py](https://img.shields.io/badge/entry-main.py-orange)](https://make.fun/bounty/news-image-20261125)
 
